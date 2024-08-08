@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-last-update-time",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Gitbook 插件, 自动为标题栏添加当前时间以及在页脚位置添加最后更新时间",
   "main": "index.js",
   "engines": {
