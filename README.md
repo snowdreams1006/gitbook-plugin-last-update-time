@@ -11,7 +11,7 @@
 
 ## 效果
 
-![last-update-time-use-preview.png](last-update-time-use-preview.png)
+![last-update-time-use-preview.png](https://snowdreams1006.github.io/gitbook-plugin-last-update-time/last-update-time-use-preview.png)
 
 ## 用法
 
