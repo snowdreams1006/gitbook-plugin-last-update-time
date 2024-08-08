@@ -83,6 +83,8 @@ $ gitbook serve
 
 如果本项目对你有所帮助,欢迎 ⭐️ [gitbook-plugin-last-update-time](https://github.com/snowdreams1006/gitbook-plugin-last-update-time) 项目,感谢你的支持与认可!
 
+![snowdreams1006-wechat-donate.jpg](https://snowdreams1006.github.io/snowdreams1006-wechat-donate.jpg)
+
 ## 📝 版权
 
 Copyright © 2019 [snowdreams1006](https://github.com/snowdreams1006).
