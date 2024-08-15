@@ -9,10 +9,6 @@
 
 > Gitbook 插件, 自动为标题栏添加当前时间以及在页脚位置添加最后更新时间
 
-## 效果
-
-![last-update-time-use-preview.png](https://snowdreams1006.github.io/gitbook-plugin-last-update-time/last-update-time-use-preview.png)
-
 ## 用法
 
 ### Step #1 - 更新 `book.json` 配置文件
